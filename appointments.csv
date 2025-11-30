@@ -1,0 +1,9 @@
+"appointment_id","patient_name","doctor_id","appointment_time","reason_for_visit","status","duration_minutes","clinic_room"
+8,"Patient15",15,"2025-12-02 15:00:00","Reason: Consultation for Patient 15","Scheduled",30,NULL
+7,"Patient14",14,"2025-12-02 14:00:00","Reason: Consultation for Patient 14","Scheduled",30,NULL
+6,"Patient13",13,"2025-12-02 13:00:00","Reason: Consultation for Patient 13","Scheduled",30,NULL
+5,"Patient12",12,"2025-12-02 12:00:00","Reason: Consultation for Patient 12","Scheduled",30,NULL
+4,"Patient11",11,"2025-12-02 11:00:00","Reason: Consultation for Patient 11","Scheduled",30,NULL
+3,"Patient10",10,"2025-12-02 10:00:00","Reason: Consultation for Patient 10","Scheduled",30,NULL
+2,"Patient9",9,"2025-12-02 09:00:00","Reason: Consultation for Patient 9","Scheduled",30,NULL
+1,"Patient8",8,"2025-12-02 08:00:00","Reason: Consultation for Patient 8","Scheduled",30,NULL
